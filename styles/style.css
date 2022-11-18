@@ -1,0 +1,10 @@
+.tarjeta{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.nombre_tarjeta{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
